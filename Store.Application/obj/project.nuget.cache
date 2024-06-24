@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "P/hbcqZYA1doCHMFocrVLkhgBB0XvmTnSkYa4sP45c2jGWID3UCM6bBw1lCewJDAr34lEnUKiKi35yCbZ6qcJA==",
+  "success": true,
+  "projectFilePath": "/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Application/Store.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/elgunhaqverdiyev/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
+    "/Users/elgunhaqverdiyev/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/elgunhaqverdiyev/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "/Users/elgunhaqverdiyev/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

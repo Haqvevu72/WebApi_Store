@@ -1,0 +1,15 @@
+/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Application/bin/Debug/net8.0/Store.Application.deps.json
+/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Application/bin/Debug/net8.0/Store.Application.dll
+/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Application/bin/Debug/net8.0/Store.Application.pdb
+/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Application/bin/Debug/net8.0/Store.Domain.dll
+/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Application/bin/Debug/net8.0/Store.Domain.pdb
+/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Application/obj/Debug/net8.0/Store.Application.csproj.AssemblyReference.cache
+/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Application/obj/Debug/net8.0/Store.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Application/obj/Debug/net8.0/Store.Application.AssemblyInfoInputs.cache
+/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Application/obj/Debug/net8.0/Store.Application.AssemblyInfo.cs
+/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Application/obj/Debug/net8.0/Store.Application.csproj.CoreCompileInputs.cache
+/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Application/obj/Debug/net8.0/Store.Ap.C122FA30.Up2Date
+/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Application/obj/Debug/net8.0/Store.Application.dll
+/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Application/obj/Debug/net8.0/refint/Store.Application.dll
+/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Application/obj/Debug/net8.0/Store.Application.pdb
+/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Application/obj/Debug/net8.0/ref/Store.Application.dll
