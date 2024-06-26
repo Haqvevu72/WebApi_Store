@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Persistence/Store.Persistence.csproj": {}
+    "/Users/elgunhaqverdiyev/Desktop/WebApi_Store/Store.Persistence/Store.Persistence.csproj": {}
   },
   "projects": {
-    "/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Application/Store.Application.csproj": {
+    "/Users/elgunhaqverdiyev/Desktop/WebApi_Store/Store.Application/Store.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Application/Store.Application.csproj",
+        "projectUniqueName": "/Users/elgunhaqverdiyev/Desktop/WebApi_Store/Store.Application/Store.Application.csproj",
         "projectName": "Store.Application",
-        "projectPath": "/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Application/Store.Application.csproj",
+        "projectPath": "/Users/elgunhaqverdiyev/Desktop/WebApi_Store/Store.Application/Store.Application.csproj",
         "packagesPath": "/Users/elgunhaqverdiyev/.nuget/packages/",
-        "outputPath": "/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Application/obj/",
+        "outputPath": "/Users/elgunhaqverdiyev/Desktop/WebApi_Store/Store.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/elgunhaqverdiyev/.nuget/NuGet/NuGet.Config"
@@ -27,8 +27,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Domain/Store.Domain.csproj": {
-                "projectPath": "/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Domain/Store.Domain.csproj"
+              "/Users/elgunhaqverdiyev/Desktop/WebApi_Store/Store.Domain/Store.Domain.csproj": {
+                "projectPath": "/Users/elgunhaqverdiyev/Desktop/WebApi_Store/Store.Domain/Store.Domain.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Domain/Store.Domain.csproj": {
+    "/Users/elgunhaqverdiyev/Desktop/WebApi_Store/Store.Domain/Store.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Domain/Store.Domain.csproj",
+        "projectUniqueName": "/Users/elgunhaqverdiyev/Desktop/WebApi_Store/Store.Domain/Store.Domain.csproj",
         "projectName": "Store.Domain",
-        "projectPath": "/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Domain/Store.Domain.csproj",
+        "projectPath": "/Users/elgunhaqverdiyev/Desktop/WebApi_Store/Store.Domain/Store.Domain.csproj",
         "packagesPath": "/Users/elgunhaqverdiyev/.nuget/packages/",
-        "outputPath": "/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Domain/obj/",
+        "outputPath": "/Users/elgunhaqverdiyev/Desktop/WebApi_Store/Store.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/elgunhaqverdiyev/.nuget/NuGet/NuGet.Config"
@@ -126,14 +126,14 @@
         }
       }
     },
-    "/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Persistence/Store.Persistence.csproj": {
+    "/Users/elgunhaqverdiyev/Desktop/WebApi_Store/Store.Persistence/Store.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Persistence/Store.Persistence.csproj",
+        "projectUniqueName": "/Users/elgunhaqverdiyev/Desktop/WebApi_Store/Store.Persistence/Store.Persistence.csproj",
         "projectName": "Store.Persistence",
-        "projectPath": "/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Persistence/Store.Persistence.csproj",
+        "projectPath": "/Users/elgunhaqverdiyev/Desktop/WebApi_Store/Store.Persistence/Store.Persistence.csproj",
         "packagesPath": "/Users/elgunhaqverdiyev/.nuget/packages/",
-        "outputPath": "/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Persistence/obj/",
+        "outputPath": "/Users/elgunhaqverdiyev/Desktop/WebApi_Store/Store.Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/elgunhaqverdiyev/.nuget/NuGet/NuGet.Config"
@@ -149,11 +149,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Application/Store.Application.csproj": {
-                "projectPath": "/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Application/Store.Application.csproj"
+              "/Users/elgunhaqverdiyev/Desktop/WebApi_Store/Store.Application/Store.Application.csproj": {
+                "projectPath": "/Users/elgunhaqverdiyev/Desktop/WebApi_Store/Store.Application/Store.Application.csproj"
               },
-              "/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Domain/Store.Domain.csproj": {
-                "projectPath": "/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Domain/Store.Domain.csproj"
+              "/Users/elgunhaqverdiyev/Desktop/WebApi_Store/Store.Domain/Store.Domain.csproj": {
+                "projectPath": "/Users/elgunhaqverdiyev/Desktop/WebApi_Store/Store.Domain/Store.Domain.csproj"
               }
             }
           }

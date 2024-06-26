@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LQonCGTisSbUAvuUVxOvpor7KUgtlMfBUcbD0LsCPjXBnPbjHyczj33al7of5ZJJEwqU2VdB3OcIJQ0ghFmqsA==",
+  "dgSpecHash": "ewsf0UbpHexlW8lbgcD6hNbx4WzBWEWK+YKx7xHReUdGY694ByHUywPEuHiCZ0c9jzo+vSqmdTmrE09pUw/7gA==",
   "success": true,
-  "projectFilePath": "/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Domain/Store.Domain.csproj",
+  "projectFilePath": "/Users/elgunhaqverdiyev/Desktop/WebApi_Store/Store.Domain/Store.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
