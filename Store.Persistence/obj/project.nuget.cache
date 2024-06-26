@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kutMZiYCdVRR3lUBsQPFZTFSdw9V29SQ3xsaaUKiRT5/nAkGWhmjx43NltFxd4glVjDRlnYehPryBhwJs/3wTg==",
+  "dgSpecHash": "K5qzZ+NSqvmf2YWm7FFxKSV3UfDcw1wSnrCY+VKvfzaeXawqqCCD7smtw9aXx1Kt5RDv1k0gd0z6x3YZtSidsw==",
   "success": true,
-  "projectFilePath": "/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Persistence/Store.Persistence.csproj",
+  "projectFilePath": "/Users/elgunhaqverdiyev/Desktop/WebApi_Store/Store.Persistence/Store.Persistence.csproj",
   "expectedPackageFiles": [
     "/Users/elgunhaqverdiyev/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/elgunhaqverdiyev/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",

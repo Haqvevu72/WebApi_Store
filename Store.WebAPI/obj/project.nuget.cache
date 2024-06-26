@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VozGeoHZ2Y4lM4XBKnyeWShBsQ5vWCOV1hij8vrZov8uKIyyZkXS4LY57CDOuxbjmz+due3jje/upPFfWI8rxA==",
+  "dgSpecHash": "3f6vCn7eyGNAfe5Y2BwQWMYfPdw4UEiHFWCCdrHxGaLDXWy1OnJKy1Fs6gAIXrbn3mJKv3bIAfaUDasqCSPeTA==",
   "success": true,
-  "projectFilePath": "/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.WebAPI/Store.WebAPI.csproj",
+  "projectFilePath": "/Users/elgunhaqverdiyev/Desktop/WebApi_Store/Store.WebAPI/Store.WebAPI.csproj",
   "expectedPackageFiles": [
     "/Users/elgunhaqverdiyev/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/elgunhaqverdiyev/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",

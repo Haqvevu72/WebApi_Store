@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Store.Domain
-build_property.ProjectDir = /Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Domain/
+build_property.ProjectDir = /Users/elgunhaqverdiyev/Desktop/WebApi_Store/Store.Domain/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

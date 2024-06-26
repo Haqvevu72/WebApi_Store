@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MrjP64ZAbgUYrTXmSiVRfK7DGWb0A8WlPildgU9h6haMVh0jchcNcaXqtcSHoWYbk5if0QXTYqc/ZlvgvF8g0g==",
+  "dgSpecHash": "P3pvk2RQ4fKxTOuLIjTlLQo15NxcOKymJopFd4tWg5oo6w2gpE/QhyeDZSUYaBsqRxjIz04fC11aY6JzVZA75A==",
   "success": true,
-  "projectFilePath": "/Users/elgunhaqverdiyev/Desktop/Holiday Task/Store.Infrastructure/Store.Infrastructure.csproj",
+  "projectFilePath": "/Users/elgunhaqverdiyev/Desktop/WebApi_Store/Store.Infrastructure/Store.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/elgunhaqverdiyev/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
     "/Users/elgunhaqverdiyev/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
